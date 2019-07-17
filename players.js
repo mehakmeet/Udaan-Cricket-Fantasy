@@ -1,0 +1,49 @@
+const players=[
+	
+	{
+		p_name:'Karthik',
+		credits:9,
+		points:32,
+		pos:'WicketKeeper',
+		pid:1
+	},{
+		p_name:'Karthik',
+		credits:9,
+		points:32,
+		pos:'WicketKeeper',
+		pid:2
+	},{
+		p_name:'Karthik',
+		credits:9,
+		points:32,
+		pos:'WicketKeeper',
+		pid:3
+	},{
+		p_name:'Karthik',
+		credits:9,
+		points:32,
+		pos:'WicketKeeper',
+		pid:4
+	},{
+		p_name:'Karthik',
+		credits:9,
+		points:32,
+		pos:'WicketKeeper',
+		pid:5
+	},{
+		p_name:'Karthik',
+		credits:9,
+		points:32,
+		pos:'WicketKeeper',
+		pid:6
+	},{
+		p_name:'Karthik',
+		credits:9,
+		points:32,
+		pos:'WicketKeeper',
+		pid:7
+	}
+
+];
+
+module.exports=players;
